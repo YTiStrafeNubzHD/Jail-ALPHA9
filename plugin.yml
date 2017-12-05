@@ -1,8 +1,8 @@
 name: Jail
 main: hoyinm14mc\jail\Jail
-api: ["2.0.0", "3.0.0-ALPHA3", "3.0.0-ALPHA4", "3.0.0-ALPHA5", "3.0.0-ALPHA6", "3.0.0-ALPHA7"]
-version: 1.2.1
-author: hoyinm14mc
+api: ["3.0.0-ALPHA9", "3.0.0-ALPHA3", "3.0.0-ALPHA4", "3.0.0-ALPHA5", "3.0.0-ALPHA6", "3.0.0-ALPHA7"]
+version: 1.3.0
+author: [hoyinm14mc, updated by VMPE Development Team]
 description: An advanced jail punishment system for PocketMine servers
 load: POSTWORLD
 
