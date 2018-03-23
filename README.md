@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9)
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9)
 
 # Jail <img src="https://github.com/hoyinm14mc/Jail/blob/master/icon.png" width="75" height="75" align="right">
 
