@@ -1,5 +1,7 @@
 # Jail <img src="https://github.com/hoyinm14mc/Jail/blob/master/icon.png" width="75" height="75" align="right">
 
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9 .svg)](http://hits.dwyl.io/YTiStrafeNubzHD/Jail-ALPHA9 )
+
 [![Gitter](https://badges.gitter.im/hoyinm14mc/Jail.svg)](https://gitter.im/hoyinm14mc/Jail?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Jail sets a new standard for player punishment systems. It makes your [PocketMine](https://github.com/pmmp/PocketMine-MP/) server secure than before. It makes player punishment more capable than ever. With our advanced techniques, Jail is the most innovative, powerful, and customizable punishment system people've ever experienced.
